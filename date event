@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>New File</title></head>
+<body>
+<h2>WELCOME TO OUR PAGE</h2>
+<button type="button" onclick="data()"></button>
+<p id="first"></p>
+<script>
+function data()
+{
+document.getElementById('first').innerHTML=Date();
+}</script>
+</body>
+</html>
