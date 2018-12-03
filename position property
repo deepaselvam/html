@@ -1,0 +1,16 @@
+display:
+  * Block-It will shows one by one.
+  * None-Doesn't Show anything.
+  * Inline-Block-Display the block in the line
+  * Inline- Same line it will display 
+  
+  
+ POSITION:
+  * Static
+  * Absolute
+  * Relative
+  * Fixed
+  * Initial
+  * Inherit
+  * Sticky
+  
