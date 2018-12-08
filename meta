@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title></title>
+<meta charset="utf-8">
+<meta name="viewport" width="device-width, initial-scale=1">
+</head>
+<body>
+<div>
+<label>Username</label>
+<input type="text" name="uname" value="username">
+<label>Password</label>
+<input type="password" name="pass" value="password">
+<label>Email</label>
+<input type="text" name="email" value="email">
+<label>Address</label>
+<input type="text" name="address" value="address">
+</div>
+</body>
+</html>
